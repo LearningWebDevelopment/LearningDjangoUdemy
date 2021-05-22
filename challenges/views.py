@@ -6,3 +6,11 @@ from django.shortcuts import render
 
 def index(request):
     return HttpResponse("This works!!")
+
+
+def january(request):
+    return HttpResponse("This Jan!!")
+
+
+def february(request):
+    return HttpResponse("This is Feb!!")
