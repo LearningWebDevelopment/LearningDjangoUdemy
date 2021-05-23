@@ -1,3 +1,4 @@
 .vscode/
 venv/
 workspace.code-workspace
+challenges/__pycache__/
